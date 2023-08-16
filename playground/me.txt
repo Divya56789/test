@@ -1,5 +1,1 @@
-{{#user}
-Name: Divya kumari
-Skills: HTML, CSS, JS, React.js
-Email: divyavats2022@gmail.com
-{{/user}}
+
